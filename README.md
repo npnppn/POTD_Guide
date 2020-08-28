@@ -1,4 +1,4 @@
-# POTD-Guide
+# POTD-Guide(Picture of the day - Guideline)
  
 # Picture of The Day Guide based on Image Big Data
 
